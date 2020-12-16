@@ -1,0 +1,51 @@
+,href,icons,id,name
+0,https://api.spotify.com/v1/browse/categories/toplists,"[{'height': 275, 'url': 'https://t.scdn.co/media/derived/toplists_11160599e6a04ac5d6f2757f5511778f_0_0_275_275.jpg', 'width': 275}]",toplists,Top Lists
+1,https://api.spotify.com/v1/browse/categories/hiphop,"[{'height': 274, 'url': 'https://t.scdn.co/media/original/hip-274_0a661854d61e29eace5fe63f73495e68_274x274.jpg', 'width': 274}]",hiphop,Hip Hop
+2,https://api.spotify.com/v1/browse/categories/pop,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/pop-274x274_447148649685019f5e2a03a39e78ba52_0_0_274_274.jpg', 'width': 274}]",pop,Pop
+3,https://api.spotify.com/v1/browse/categories/country,"[{'height': None, 'url': 'https://t.scdn.co/images/a2e0ebe2ebed4566ba1d8236b869241f.jpeg', 'width': None}]",country,Country
+4,https://api.spotify.com/v1/browse/categories/workout,"[{'height': None, 'url': 'https://t.scdn.co/media/links/workout-274x274.jpg', 'width': None}]",workout,Workout
+5,https://api.spotify.com/v1/browse/categories/rock,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/rock_9ce79e0a4ef901bbd10494f5b855d3cc_0_0_274_274.jpg', 'width': 274}]",rock,Rock
+6,https://api.spotify.com/v1/browse/categories/latin,"[{'height': None, 'url': 'https://t.scdn.co/images/26a60378-a374-4cd7-b894-28efa5e154cb.jpg', 'width': None}]",latin,Latin
+7,https://api.spotify.com/v1/browse/categories/shows_with_music,"[{'height': None, 'url': 'https://t.scdn.co/images/139e996f9cea4fc5a48d4ba669751aa7.jpeg', 'width': None}]",shows_with_music,Shows with music
+8,https://api.spotify.com/v1/browse/categories/mood,"[{'height': 274, 'url': 'https://t.scdn.co/media/original/mood-274x274_976986a31ac8c49794cbdc7246fd5ad7_274x274.jpg', 'width': 274}]",mood,Mood
+9,https://api.spotify.com/v1/browse/categories/rnb,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/r-b-274x274_fd56efa72f4f63764b011b68121581d8_0_0_274_274.jpg', 'width': 274}]",rnb,R&B
+10,https://api.spotify.com/v1/browse/categories/holidays,"[{'height': None, 'url': 'https://t.scdn.co/images/dec76a385201436281efb6796a54f479.jpeg', 'width': None}]",holidays,Happy Holidays
+11,https://api.spotify.com/v1/browse/categories/gaming,"[{'height': None, 'url': 'https://t.scdn.co/images/0d39395309ba47838ef12ce987f19d16.jpeg', 'width': None}]",gaming,Gaming
+12,https://api.spotify.com/v1/browse/categories/radar,"[{'height': None, 'url': 'https://t.scdn.co/images/c6677aa51acf4121b66b9d1f231bd427.png', 'width': None}]",radar,RADAR
+13,https://api.spotify.com/v1/browse/categories/focus,"[{'height': 274, 'url': 'https://t.scdn.co/media/original/genre-images-square-274x274_5e50d72b846a198fcd2ca9b3aef5f0c8_274x274.jpg', 'width': 274}]",focus,Focus
+14,https://api.spotify.com/v1/browse/categories/edm_dance,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/edm-274x274_0ef612604200a9c14995432994455a6d_0_0_274_274.jpg', 'width': 274}]",edm_dance,Dance/Electronic
+15,https://api.spotify.com/v1/browse/categories/blackhistorymonth,"[{'height': None, 'url': 'https://t.scdn.co/images/519576e01b61450390234a623c97aa9a.jpeg', 'width': None}]",blackhistorymonth,Black History Is Now
+16,https://api.spotify.com/v1/browse/categories/chill,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/chill-274x274_4c46374f007813dd10b37e8d8fd35b4b_0_0_274_274.jpg', 'width': 274}]",chill,Chill
+17,https://api.spotify.com/v1/browse/categories/at_home,"[{'height': None, 'url': 'https://t.scdn.co/images/04da469dd7be4dab96659aa1fa9f0ac9.jpeg', 'width': None}]",at_home,At Home
+18,https://api.spotify.com/v1/browse/categories/indie_alt,"[{'height': None, 'url': 'https://t.scdn.co/images/fe06caf056474bc58862591cd60b57fc.jpeg', 'width': None}]",indie_alt,Indie
+19,https://api.spotify.com/v1/browse/categories/inspirational,"[{'height': None, 'url': 'https://t.scdn.co/images/6359655809534407b31a728fe262dc3a.jpeg', 'width': None}]",inspirational,Christian
+20,https://api.spotify.com/v1/browse/categories/decades,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/decades_9ad8e458242b2ac8b184e79ef336c455_0_0_274_274.jpg', 'width': 274}]",decades,Decades
+21,https://api.spotify.com/v1/browse/categories/alternative,"[{'height': None, 'url': 'https://t.scdn.co/images/ee9451b3ed474c82b1da8f9b5eafc88f.jpeg', 'width': None}]",alternative,Alternative
+22,https://api.spotify.com/v1/browse/categories/student,"[{'height': None, 'url': 'https://t.scdn.co/images/67a216e1e07144f889d366fed5c325bc.jpeg', 'width': None}]",student,Student
+23,https://api.spotify.com/v1/browse/categories/wellness,"[{'height': None, 'url': 'https://t.scdn.co/images/2adf91e7179a4e098834d630c74824b1.jpeg', 'width': None}]",wellness,Wellness
+24,https://api.spotify.com/v1/browse/categories/in_the_car,"[{'height': None, 'url': 'https://t.scdn.co/images/57017d435c344bb28efba325b7c9e7c6.jpeg', 'width': None}]",in_the_car,In the car
+25,https://api.spotify.com/v1/browse/categories/pride,"[{'height': None, 'url': 'https://t.scdn.co/images/1473f3593dd64569b2c8e3e0be90ff05.png', 'width': None}]",pride,Pride
+26,https://api.spotify.com/v1/browse/categories/party,"[{'height': 274, 'url': 'https://t.scdn.co/media/links/partyicon_274x274.jpg', 'width': 274}]",party,Party
+27,https://api.spotify.com/v1/browse/categories/sleep,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/sleep-274x274_0d4f836af8fab7bf31526968073e671c_0_0_274_274.jpg', 'width': 274}]",sleep,Sleep
+28,https://api.spotify.com/v1/browse/categories/classical,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/classical-274x274_abf78251ff3d90d2ceaf029253ca7cb4_0_0_274_274.jpg', 'width': 274}]",classical,Classical
+29,https://api.spotify.com/v1/browse/categories/jazz,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/jazz-274x274_d6f407453a1f43d3163c55cca624a764_0_0_274_274.jpg', 'width': 274}]",jazz,Jazz
+30,https://api.spotify.com/v1/browse/categories/roots,"[{'height': None, 'url': 'https://t.scdn.co/images/7fe0f2c9c91f45a3b6bae49d298201a4.jpeg', 'width': None}]",roots,Folk & Acoustic
+31,https://api.spotify.com/v1/browse/categories/soul,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/soul-274x274_266bc900b35dda8956380cffc73a4d8c_0_0_274_274.jpg', 'width': 274}]",soul,Soul
+32,https://api.spotify.com/v1/browse/categories/sessions,"[{'height': None, 'url': 'https://t.scdn.co/images/986a6f23-b61b-43c5-85dd-c66cc66e0f40.jpg', 'width': None}]",sessions,Spotify Singles
+33,https://api.spotify.com/v1/browse/categories/dinner,"[{'height': 274, 'url': 'https://t.scdn.co/media/original/dinner_1b6506abba0ba52c54e6d695c8571078_274x274.jpg', 'width': 274}]",dinner,Cooking & Dining
+34,https://api.spotify.com/v1/browse/categories/sports,"[{'height': None, 'url': 'https://t.scdn.co/images/f6af3964b092490884d5249dcf381dc3.jpeg', 'width': None}]",sports,Sports
+35,https://api.spotify.com/v1/browse/categories/romance,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/romance-274x274_8100794c94847b6d27858bed6fa4d91b_0_0_274_274.jpg', 'width': 274}]",romance,Romance
+36,https://api.spotify.com/v1/browse/categories/kpop,"[{'height': None, 'url': 'https://t.scdn.co/images/2078afd91e4d431eb19efc5bee5ab131.jpeg', 'width': None}]",kpop,K-Pop
+37,https://api.spotify.com/v1/browse/categories/punk,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/punk-274x274_f3f1528ea7bbb60a625da13e3315a40b_0_0_274_274.jpg', 'width': 274}]",punk,Punk
+38,https://api.spotify.com/v1/browse/categories/regional_mexican,"[{'height': None, 'url': 'https://t.scdn.co/images/c765fa1ce6994fce8796d2d0d93c1e61.jpeg', 'width': None}]",regional_mexican,Regional Mexican
+39,https://api.spotify.com/v1/browse/categories/popculture,"[{'height': None, 'url': 'https://t.scdn.co/images/ac75ec857b714a118c73218bb58664e5.jpeg', 'width': None}]",popculture,Pop culture
+40,https://api.spotify.com/v1/browse/categories/arab,"[{'height': None, 'url': 'https://t.scdn.co/images/41c540e662c0476c8729eb12c2f08995.jpeg', 'width': None}]",arab,Arab
+41,https://api.spotify.com/v1/browse/categories/desi,"[{'height': None, 'url': 'https://t.scdn.co/images/878e1eda3d084a4584465626a8f7dd26.jpeg', 'width': None}]",desi,Desi
+42,https://api.spotify.com/v1/browse/categories/anime,"[{'height': None, 'url': 'https://t.scdn.co/images/54841f7d6a774ef096477c99c23f0cf1.jpeg', 'width': None}]",anime,Anime
+43,https://api.spotify.com/v1/browse/categories/thirdparty,"[{'height': None, 'url': 'https://t.scdn.co/images/b4182906bf244b4994805084c057e9ee.jpeg', 'width': None}]",thirdparty,Tastemakers
+44,https://api.spotify.com/v1/browse/categories/afro,"[{'height': None, 'url': 'https://t.scdn.co/images/b505b01bbe0e490cbe43b07f16212892.jpeg', 'width': None}]",afro,Afro
+45,https://api.spotify.com/v1/browse/categories/comedy,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/comedy-274x274_d07fcbc1202f00f8684f37742d0a4f2f_0_0_274_274.jpg', 'width': 274}]",comedy,Comedy
+46,https://api.spotify.com/v1/browse/categories/metal,"[{'height': 274, 'url': 'https://t.scdn.co/media/original/metal_27c921443fd0a5ba95b1b2c2ae654b2b_274x274.jpg', 'width': 274}]",metal,Metal
+47,https://api.spotify.com/v1/browse/categories/caribbean,"[{'height': None, 'url': 'https://t.scdn.co/images/495fadcefe234607b14b2db3381f3f5d.jpeg', 'width': None}]",caribbean,Caribbean
+48,https://api.spotify.com/v1/browse/categories/blues,"[{'height': 274, 'url': 'https://t.scdn.co/media/derived/icon-274x274_aeeb8eb70c80e2b701b25425390a1737_0_0_274_274.jpg', 'width': 274}]",blues,Blues
+49,https://api.spotify.com/v1/browse/categories/funk,"[{'height': None, 'url': 'https://t.scdn.co/images/f4f0987fcab446fcaa7173acb5e25701.jpeg', 'width': None}]",funk,Funk
