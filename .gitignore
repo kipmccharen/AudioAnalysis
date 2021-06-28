@@ -130,3 +130,6 @@ dmypy.json
 
 #exclude credential jsons
 *.json
+*.mp4
+*.mp3
+*.wav
