@@ -2,7 +2,7 @@
 Downloads and creates data manifest files for Mini LibriSpeech (spk-id).
 For speaker-id, different senteces of the same speaker must appear in train,
 validation, and test sets. In this case, these sets are thus derived from
-splitting the orginal training set intothree chunks.
+splitting the original training set intothree chunks.
 
 Authors:
  * Mirco Ravanelli, 2021
@@ -17,12 +17,14 @@ from speechbrain.utils.data_utils import get_all_files, download_file
 from speechbrain.dataio.dataio import read_audio
 
 logger = logging.getLogger(__name__)
-MINILIBRI_TRAIN_URL = "http://www.openslr.org/resources/31/train-clean-5.tar.gz"
+#MINILIBRI_TRAIN_URL = "http://www.openslr.org/resources/31/train-clean-5.tar.gz"
 SAMPLERATE = 16000
 
 
-def prepare_mini_librispeech(
-    data_folder,
+def prepare_dataset(
+    wav_list,
+    path_col,
+    label_col,
     save_json_train,
     save_json_valid,
     save_json_test,
@@ -35,8 +37,12 @@ def prepare_mini_librispeech(
 
     Arguments
     ---------
-    data_folder : str
-        Path to the folder where the Mini Librispeech dataset is stored.
+    wav_list : list
+        List of dictionaries containing relevant data
+    path_col : str
+        Column containing the file path
+    label_col : str
+        Column containing the file label
     save_json_train : str
         Path where the train data specification file will be saved.
     save_json_valid : str
@@ -48,11 +54,6 @@ def prepare_mini_librispeech(
         and test sets, respecively. For instance split_ratio=[80, 10, 10] will
         assign 80% of the sentences to training, 10% for validation, and 10%
         for test.
-
-    Example
-    -------
-    >>> data_folder = '/path/to/mini_librispeech'
-    >>> prepare_mini_librispeech(data_folder, 'train.json', 'valid.json', 'test.json')
     """
 
     # Check if this phase is already done (if so, skip it)
@@ -61,16 +62,19 @@ def prepare_mini_librispeech(
         return
 
     # If the dataset doesn't exist yet, download it
-    train_folder = os.path.join(data_folder, "LibriSpeech", "train-clean-5")
-    if not check_folders(train_folder):
-        download_mini_librispeech(data_folder)
+    # train_folder = os.path.join(data_folder, "LibriSpeech", "train-clean-5")
+    # if not check_folders(train_folder):
+    #     download_mini_librispeech(data_folder)
+
+    ## point towards our dataset
+    ##train_folder = data_folder + ""
 
     # List files and create manifest from list
     logger.info(
         f"Creating {save_json_train}, {save_json_valid}, and {save_json_test}"
     )
-    extension = [".flac"]
-    wav_list = get_all_files(train_folder, match_and=extension)
+    #extension = [".flac"]
+    #wav_list = get_all_files(train_folder, match_and=extension)
 
     # Random split the signal list into train, valid, and test sets.
     data_split = split_sets(wav_list, split_ratio)
@@ -81,7 +85,7 @@ def prepare_mini_librispeech(
     create_json(data_split["test"], save_json_test)
 
 
-def create_json(wav_list, json_file):
+def create_json(wav_list, json_file,path_col,label_col):
     """
     Creates the json file given a list of wav files.
 
@@ -91,22 +95,26 @@ def create_json(wav_list, json_file):
         The list of wav files.
     json_file : str
         The path of the output json file
+    path_col : str
+        Column containing wav path
+    label_col : str
+        Column containing sample label (response variable)
     """
     # Processing all the wav files in the list
     json_dict = {}
-    for wav_file in wav_list:
-
+    for wl in wav_list:
+        wav_file = wl[path_col]
         # Reading the signal (to retrieve duration in seconds)
         signal = read_audio(wav_file)
         duration = signal.shape[0] / SAMPLERATE
 
-        # Manipulate path to get relative path and uttid
+        # # Manipulate path to get relative path and uttid
         path_parts = wav_file.split(os.path.sep)
         uttid, _ = os.path.splitext(path_parts[-1])
         relative_path = os.path.join("{data_root}", *path_parts[-5:])
 
         # Getting speaker-id from utterance-id
-        spk_id = uttid.split("-")[0]
+        spk_id = wl[label_col]
 
         # Create entry for this utterance
         json_dict[uttid] = {
@@ -186,14 +194,14 @@ def split_sets(wav_list, split_ratio):
     return data_split
 
 
-def download_mini_librispeech(destination):
-    """Download dataset and unpack it.
+# def download_mini_librispeech(destination):
+#     """Download dataset and unpack it.
 
-    Arguments
-    ---------
-    destination : str
-        Place to put dataset.
-    """
-    train_archive = os.path.join(destination, "train-clean-5.tar.gz")
-    download_file(MINILIBRI_TRAIN_URL, train_archive)
-    shutil.unpack_archive(train_archive, destination)
+#     Arguments
+#     ---------
+#     destination : str
+#         Place to put dataset.
+#     """
+#     train_archive = os.path.join(destination, "train-clean-5.tar.gz")
+#     download_file(MINILIBRI_TRAIN_URL, train_archive)
+#     shutil.unpack_archive(train_archive, destination)

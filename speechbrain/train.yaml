@@ -48,7 +48,7 @@ number_of_epochs: 35
 batch_size: 16
 lr_start: 0.001
 lr_final: 0.0001
-n_classes: 28 # In this case, we have 28 speakers
+n_classes: 5 # In this case, we have 5 emotion categories to identify
 emb_dim: 512 # dimensionality of the embeddings
 dataloader_options:
     batch_size: !ref <batch_size>
