@@ -29,7 +29,7 @@ import sys
 import torch
 import speechbrain as sb
 from hyperpyyaml import load_hyperpyyaml
-from mini_librispeech_prepare import prepare_mini_librispeech
+from prepare_json import prepare_json
 
 
 # Brain class for speech enhancement training
@@ -288,11 +288,26 @@ if __name__ == "__main__":
         overrides=overrides,
     )
 
+# def prepare_json(
+#     wav_list,
+#     path_col,
+#     label_col,
+#     save_json_train,
+#     save_json_valid,
+#     save_json_test,
+#     split_ratio=[80, 10, 10],
+# ):
+    import pandas as pd
+    wav_list = pd.read_csv(hparams["data_csv"]).to_dict('records')
+
     # Data preparation, to be run on only one process.
     sb.utils.distributed.run_on_main(
-        prepare_mini_librispeech,
+        prepare_json,
         kwargs={
-            "data_folder": hparams["data_folder"],
+            "wav_list": wav_list,
+            "path_col": hparams["path_col"],
+            "label_col": hparams["label_col"],
+            #"data_folder": hparams["data_folder"],
             "save_json_train": hparams["train_annotation"],
             "save_json_valid": hparams["valid_annotation"],
             "save_json_test": hparams["test_annotation"],

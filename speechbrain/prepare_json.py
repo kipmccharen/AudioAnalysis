@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 SAMPLERATE = 16000
 
 
-def prepare_dataset(
+def prepare_json(
     wav_list,
     path_col,
     label_col,
@@ -80,9 +80,9 @@ def prepare_dataset(
     data_split = split_sets(wav_list, split_ratio)
 
     # Creating json files
-    create_json(data_split["train"], save_json_train)
-    create_json(data_split["valid"], save_json_valid)
-    create_json(data_split["test"], save_json_test)
+    create_json(data_split["train"], save_json_train, path_col,label_col)
+    create_json(data_split["valid"], save_json_valid, path_col,label_col)
+    create_json(data_split["test"], save_json_test, path_col,label_col)
 
 
 def create_json(wav_list, json_file,path_col,label_col):
@@ -100,9 +100,11 @@ def create_json(wav_list, json_file,path_col,label_col):
     label_col : str
         Column containing sample label (response variable)
     """
+    logger.debug(f"Creating {json_file}")
     # Processing all the wav files in the list
     json_dict = {}
-    for wl in wav_list:
+    n = len(wav_list)
+    for i,wl in enumerate(wav_list):
         wav_file = wl[path_col]
         # Reading the signal (to retrieve duration in seconds)
         signal = read_audio(wav_file)
@@ -122,6 +124,7 @@ def create_json(wav_list, json_file,path_col,label_col):
             "length": duration,
             "spk_id": spk_id,
         }
+        logger.debug(f"Saved {i}/{n} {json_dict[uttid]}")
 
     # Writing the dictionary to the json file
     with open(json_file, mode="w") as json_f:
