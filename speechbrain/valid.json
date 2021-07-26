@@ -1,0 +1,1012 @@
+{
+  "mg3763": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3763.wav",
+    "length": 611.9343125,
+    "spk_id": 1
+  },
+  "mg4721": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4721.wav",
+    "length": 610.8318125,
+    "spk_id": 2
+  },
+  "tt4701182_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt4701182_7.wav",
+    "length": 664.0164375,
+    "spk_id": 3
+  },
+  "tt0252866_13": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0252866_13.wav",
+    "length": 607.3479375,
+    "spk_id": 0
+  },
+  "mg4841": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4841.wav",
+    "length": 529.64375,
+    "spk_id": 2
+  },
+  "tt1823664_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1823664_11.wav",
+    "length": 252.1665625,
+    "spk_id": 4
+  },
+  "mg3512": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3512.wav",
+    "length": 640.8198125,
+    "spk_id": 2
+  },
+  "tt2170439_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2170439_1.wav",
+    "length": 263.345875,
+    "spk_id": 1
+  },
+  "tt1436562_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1436562_2.wav",
+    "length": 429.4265,
+    "spk_id": 4
+  },
+  "tt0892769_23": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0892769_23.wav",
+    "length": 711.1593125,
+    "spk_id": 3
+  },
+  "tt0440963_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0440963_9.wav",
+    "length": 723.3970625,
+    "spk_id": 1
+  },
+  "mg1692": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1692.wav",
+    "length": 399.4825625,
+    "spk_id": 2
+  },
+  "tt1823664_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1823664_3.wav",
+    "length": 582.3873125,
+    "spk_id": 4
+  },
+  "tt0481499_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0481499_0.wav",
+    "length": 568.1650625,
+    "spk_id": 1
+  },
+  "tt0422720_24": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0422720_24.wav",
+    "length": 290.62175,
+    "spk_id": 2
+  },
+  "tt0169547_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0169547_4.wav",
+    "length": 630.037375,
+    "spk_id": 0
+  },
+  "tt1099212_8": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1099212_8.wav",
+    "length": 743.374375,
+    "spk_id": 4
+  },
+  "tt0105265_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0105265_4.wav",
+    "length": 314.2593125,
+    "spk_id": 2
+  },
+  "mg4831": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4831.wav",
+    "length": 816.4260625,
+    "spk_id": 2
+  },
+  "mg4418": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4418.wav",
+    "length": 656.87225,
+    "spk_id": 2
+  },
+  "tt0408524_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0408524_11.wav",
+    "length": 584.6144375,
+    "spk_id": 3
+  },
+  "tt1951265_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1951265_5.wav",
+    "length": 535.5090625,
+    "spk_id": 1
+  },
+  "tt0329101_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0329101_5.wav",
+    "length": 446.912125,
+    "spk_id": 0
+  },
+  "mg4890": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4890.wav",
+    "length": 635.9026875,
+    "spk_id": 2
+  },
+  "mg3008": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3008.wav",
+    "length": 669.0438125,
+    "spk_id": 2
+  },
+  "tt0103893_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0103893_3.wav",
+    "length": 862.9074375,
+    "spk_id": 0
+  },
+  "tt0125439_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0125439_0.wav",
+    "length": 610.2805625,
+    "spk_id": 4
+  },
+  "mg1638": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1638.wav",
+    "length": 389.62625,
+    "spk_id": 2
+  },
+  "tt0489237_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0489237_1.wav",
+    "length": 741.2135,
+    "spk_id": 2
+  },
+  "tt2183034_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2183034_3.wav",
+    "length": 514.87025,
+    "spk_id": 0
+  },
+  "mg1285": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1285.wav",
+    "length": 939.11225,
+    "spk_id": 2
+  },
+  "tt0844471_90": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0844471_90.wav",
+    "length": 263.235625,
+    "spk_id": 4
+  },
+  "mg2214": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2214.wav",
+    "length": 487.08725,
+    "spk_id": 2
+  },
+  "tt0163651_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0163651_11.wav",
+    "length": 640.8198125,
+    "spk_id": 3
+  },
+  "tt1636826_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1636826_4.wav",
+    "length": 719.8470625,
+    "spk_id": 1
+  },
+  "tt1142977_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1142977_9.wav",
+    "length": 624.1279375,
+    "spk_id": 0
+  },
+  "mg127": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg127.wav",
+    "length": 873.7560625,
+    "spk_id": 2
+  },
+  "mg1759": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1759.wav",
+    "length": 715.481125,
+    "spk_id": 2
+  },
+  "tt2318092_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2318092_4.wav",
+    "length": 827.605375,
+    "spk_id": 3
+  },
+  "tt1119646_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1119646_0.wav",
+    "length": 708.1164375,
+    "spk_id": 0
+  },
+  "tt0102685_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0102685_5.wav",
+    "length": 771.818875,
+    "spk_id": 0
+  },
+  "tt0305357_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0305357_0.wav",
+    "length": 652.8370625,
+    "spk_id": 3
+  },
+  "tt0112384_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0112384_3.wav",
+    "length": 140.2628125,
+    "spk_id": 2
+  },
+  "tt0177971_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0177971_10.wav",
+    "length": 667.8310625,
+    "spk_id": 0
+  },
+  "mg3971": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3971.wav",
+    "length": 516.87675,
+    "spk_id": 2
+  },
+  "tt0120737_24": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120737_24.wav",
+    "length": 582.0565625,
+    "spk_id": 2
+  },
+  "mg2029": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2029.wav",
+    "length": 576.5220625,
+    "spk_id": 1
+  },
+  "tt1033575_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1033575_4.wav",
+    "length": 114.1996875,
+    "spk_id": 2
+  },
+  "mg2929": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2929.wav",
+    "length": 521.7278125,
+    "spk_id": 2
+  },
+  "tt0267913_12": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0267913_12.wav",
+    "length": 422.5028125,
+    "spk_id": 3
+  },
+  "tt0169547_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0169547_5.wav",
+    "length": 790.0763125,
+    "spk_id": 0
+  },
+  "mg4245": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4245.wav",
+    "length": 551.5614375,
+    "spk_id": 3
+  },
+  "tt0450259_18": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0450259_18.wav",
+    "length": 550.5030625,
+    "spk_id": 0
+  },
+  "mg4474": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4474.wav",
+    "length": 671.315,
+    "spk_id": 2
+  },
+  "mg3267": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3267.wav",
+    "length": 716.804125,
+    "spk_id": 2
+  },
+  "mg4786": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4786.wav",
+    "length": 424.8841875,
+    "spk_id": 3
+  },
+  "tt0104070_92": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0104070_92.wav",
+    "length": 964.7343125,
+    "spk_id": 4
+  },
+  "tt0116126_12": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0116126_12.wav",
+    "length": 773.7593125,
+    "spk_id": 0
+  },
+  "tt0112697_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0112697_11.wav",
+    "length": 498.7075625,
+    "spk_id": 0
+  },
+  "tt0252866_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0252866_2.wav",
+    "length": 287.7993125,
+    "spk_id": 0
+  },
+  "tt0109506_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0109506_1.wav",
+    "length": 808.1793125,
+    "spk_id": 0
+  },
+  "tt0294357_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0294357_5.wav",
+    "length": 1643.60975,
+    "spk_id": 2
+  },
+  "mg1636": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1636.wav",
+    "length": 624.6130625,
+    "spk_id": 2
+  },
+  "tt1817273_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1817273_2.wav",
+    "length": 541.8153125,
+    "spk_id": 2
+  },
+  "tt0351283_8": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0351283_8.wav",
+    "length": 312.8701875,
+    "spk_id": 0
+  },
+  "tt1727824_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1727824_3.wav",
+    "length": 650.8966875,
+    "spk_id": 0
+  },
+  "tt1277953_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1277953_11.wav",
+    "length": 421.9515625,
+    "spk_id": 0
+  },
+  "mg439": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg439.wav",
+    "length": 504.352375,
+    "spk_id": 2
+  },
+  "mg5957": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5957.wav",
+    "length": 679.2309375,
+    "spk_id": 2
+  },
+  "tt4633694_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt4633694_0.wav",
+    "length": 642.4295,
+    "spk_id": 1
+  },
+  "tt0333766_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0333766_1.wav",
+    "length": 552.2229375,
+    "spk_id": 0
+  },
+  "tt0163988_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0163988_0.wav",
+    "length": 814.154875,
+    "spk_id": 0
+  },
+  "tt0112368_31": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0112368_31.wav",
+    "length": 530.195,
+    "spk_id": 3
+  },
+  "tt0294357_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0294357_7.wav",
+    "length": 815.147125,
+    "spk_id": 2
+  },
+  "tt0109831_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0109831_9.wav",
+    "length": 610.2805625,
+    "spk_id": 0
+  },
+  "mg4498": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4498.wav",
+    "length": 806.5696875,
+    "spk_id": 1
+  },
+  "mg3517": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3517.wav",
+    "length": 623.5546875,
+    "spk_id": 2
+  },
+  "tt1905041_6": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1905041_6.wav",
+    "length": 845.3115625,
+    "spk_id": 1
+  },
+  "tt0377092_6": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0377092_6.wav",
+    "length": 575.463625,
+    "spk_id": 0
+  },
+  "tt1605630_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1605630_4.wav",
+    "length": 631.691125,
+    "spk_id": 0
+  },
+  "mg1818": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1818.wav",
+    "length": 405.788875,
+    "spk_id": 2
+  },
+  "tt6343314_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt6343314_11.wav",
+    "length": 344.975,
+    "spk_id": 1
+  },
+  "tt1951261_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1951261_0.wav",
+    "length": 744.256375,
+    "spk_id": 3
+  },
+  "tt0119223_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0119223_7.wav",
+    "length": 597.4915625,
+    "spk_id": 0
+  },
+  "tt1228705_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1228705_10.wav",
+    "length": 700.707625,
+    "spk_id": 3
+  },
+  "mg5882": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5882.wav",
+    "length": 727.1015,
+    "spk_id": 2
+  },
+  "mg1693": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1693.wav",
+    "length": 399.4825625,
+    "spk_id": 2
+  },
+  "tt1517451_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1517451_10.wav",
+    "length": 475.136125,
+    "spk_id": 0
+  },
+  "mg1945": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1945.wav",
+    "length": 783.88025,
+    "spk_id": 2
+  },
+  "mg2356": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2356.wav",
+    "length": 591.6263125,
+    "spk_id": 2
+  },
+  "tt3104988_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt3104988_3.wav",
+    "length": 343.6960625,
+    "spk_id": 4
+  },
+  "mg1034": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1034.wav",
+    "length": 632.59525,
+    "spk_id": 2
+  },
+  "tt0279778_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0279778_11.wav",
+    "length": 456.2613125,
+    "spk_id": 0
+  },
+  "tt0294870_27": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0294870_27.wav",
+    "length": 317.633,
+    "spk_id": 2
+  },
+  "mg2413": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2413.wav",
+    "length": 499.6998125,
+    "spk_id": 2
+  },
+  "tt1436562_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1436562_4.wav",
+    "length": 588.583375,
+    "spk_id": 0
+  },
+  "tt7131622_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt7131622_1.wav",
+    "length": 394.0583125,
+    "spk_id": 0
+  },
+  "tt1979320_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1979320_11.wav",
+    "length": 851.9485625,
+    "spk_id": 0
+  },
+  "tt0298203_15": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0298203_15.wav",
+    "length": 746.5275625,
+    "spk_id": 0
+  },
+  "tt0172156_8": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0172156_8.wav",
+    "length": 768.1145,
+    "spk_id": 0
+  },
+  "mg4025": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4025.wav",
+    "length": 685.868,
+    "spk_id": 2
+  },
+  "tt0281358_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0281358_3.wav",
+    "length": 543.09425,
+    "spk_id": 0
+  },
+  "tt0124718_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0124718_2.wav",
+    "length": 622.3419375,
+    "spk_id": 0
+  },
+  "tt1837703_23": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1837703_23.wav",
+    "length": 582.0565625,
+    "spk_id": 0
+  },
+  "tt2709692_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2709692_0.wav",
+    "length": 435.1815625,
+    "spk_id": 0
+  },
+  "tt7713068_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt7713068_2.wav",
+    "length": 422.9438125,
+    "spk_id": 1
+  },
+  "mg5043": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5043.wav",
+    "length": 780.9475625,
+    "spk_id": 2
+  },
+  "mg1588": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1588.wav",
+    "length": 565.1221875,
+    "spk_id": 1
+  },
+  "tt0243155_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0243155_2.wav",
+    "length": 538.4416875,
+    "spk_id": 0
+  },
+  "tt0183505_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0183505_0.wav",
+    "length": 653.9395625,
+    "spk_id": 0
+  },
+  "tt2096672_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2096672_1.wav",
+    "length": 504.572875,
+    "spk_id": 0
+  },
+  "tt1080016_40": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1080016_40.wav",
+    "length": 318.074,
+    "spk_id": 4
+  },
+  "tt0120755_14": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120755_14.wav",
+    "length": 734.2456875,
+    "spk_id": 3
+  },
+  "mg5054": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5054.wav",
+    "length": 625.8258125,
+    "spk_id": 3
+  },
+  "mg2640": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2640.wav",
+    "length": 594.2281875,
+    "spk_id": 4
+  },
+  "tt0422720_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0422720_4.wav",
+    "length": 428.2578125,
+    "spk_id": 0
+  },
+  "tt1022603_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1022603_7.wav",
+    "length": 619.8503125,
+    "spk_id": 2
+  },
+  "tt0343660_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0343660_9.wav",
+    "length": 575.573875,
+    "spk_id": 4
+  },
+  "mg3642": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3642.wav",
+    "length": 568.6060625,
+    "spk_id": 2
+  },
+  "tt1099212_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1099212_2.wav",
+    "length": 830.7585625,
+    "spk_id": 3
+  },
+  "tt0846308_3": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0846308_3.wav",
+    "length": 390.353875,
+    "spk_id": 4
+  },
+  "tt0118688_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0118688_0.wav",
+    "length": 1699.2198125,
+    "spk_id": 1
+  },
+  "tt2294629_19": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2294629_19.wav",
+    "length": 617.799625,
+    "spk_id": 4
+  },
+  "tt3741700_24": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt3741700_24.wav",
+    "length": 525.3439375,
+    "spk_id": 0
+  },
+  "tt0490084_38": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0490084_38.wav",
+    "length": 475.356625,
+    "spk_id": 4
+  },
+  "tt0120794_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120794_0.wav",
+    "length": 831.4200625,
+    "spk_id": 4
+  },
+  "mg1090": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1090.wav",
+    "length": 683.8835,
+    "spk_id": 2
+  },
+  "tt3224458_17": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt3224458_17.wav",
+    "length": 265.330375,
+    "spk_id": 1
+  },
+  "mg2936": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2936.wav",
+    "length": 1012.825375,
+    "spk_id": 2
+  },
+  "tt0172493_23": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0172493_23.wav",
+    "length": 469.7118125,
+    "spk_id": 2
+  },
+  "tt0120591_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120591_7.wav",
+    "length": 352.0530625,
+    "spk_id": 1
+  },
+  "tt5164432_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt5164432_10.wav",
+    "length": 451.1678125,
+    "spk_id": 4
+  },
+  "mg3313": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3313.wav",
+    "length": 499.1485625,
+    "spk_id": 3
+  },
+  "tt0349710_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0349710_2.wav",
+    "length": 517.031125,
+    "spk_id": 4
+  },
+  "tt1001508_12": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1001508_12.wav",
+    "length": 651.1171875,
+    "spk_id": 0
+  },
+  "mg1871": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1871.wav",
+    "length": 628.64825,
+    "spk_id": 2
+  },
+  "tt0198781_21": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0198781_21.wav",
+    "length": 468.5431875,
+    "spk_id": 0
+  },
+  "mg5309": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5309.wav",
+    "length": 686.705875,
+    "spk_id": 2
+  },
+  "mg1733": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1733.wav",
+    "length": 521.0663125,
+    "spk_id": 3
+  },
+  "tt8623904_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt8623904_9.wav",
+    "length": 908.1760625,
+    "spk_id": 0
+  },
+  "mg465": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg465.wav",
+    "length": 675.6368125,
+    "spk_id": 2
+  },
+  "tt0101452_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0101452_0.wav",
+    "length": 760.8600625,
+    "spk_id": 3
+  },
+  "tt0118688_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0118688_7.wav",
+    "length": 851.6178125,
+    "spk_id": 1
+  },
+  "tt2172935_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2172935_5.wav",
+    "length": 771.708625,
+    "spk_id": 0
+  },
+  "tt4477536_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt4477536_4.wav",
+    "length": 730.695625,
+    "spk_id": 2
+  },
+  "tt0329101_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0329101_11.wav",
+    "length": 639.0558125,
+    "spk_id": 1
+  },
+  "mg4861": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4861.wav",
+    "length": 662.9580625,
+    "spk_id": 3
+  },
+  "tt1228705_13": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1228705_13.wav",
+    "length": 523.3374375,
+    "spk_id": 0
+  },
+  "tt2183034_8": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2183034_8.wav",
+    "length": 474.29825,
+    "spk_id": 4
+  },
+  "mg1026": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1026.wav",
+    "length": 529.86425,
+    "spk_id": 3
+  },
+  "tt1392170_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1392170_0.wav",
+    "length": 557.7575,
+    "spk_id": 0
+  },
+  "tt0365748_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0365748_0.wav",
+    "length": 547.9673125,
+    "spk_id": 0
+  },
+  "mg5008": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg5008.wav",
+    "length": 641.327,
+    "spk_id": 3
+  },
+  "tt1325004_6": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1325004_6.wav",
+    "length": 689.8590625,
+    "spk_id": 3
+  },
+  "tt1336608_14": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1336608_14.wav",
+    "length": 942.816625,
+    "spk_id": 0
+  },
+  "tt0305357_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0305357_11.wav",
+    "length": 549.4005625,
+    "spk_id": 0
+  },
+  "mg739": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg739.wav",
+    "length": 689.5283125,
+    "spk_id": 3
+  },
+  "tt0117218_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0117218_0.wav",
+    "length": 557.20625,
+    "spk_id": 0
+  },
+  "mg4115": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4115.wav",
+    "length": 779.5143125,
+    "spk_id": 2
+  },
+  "tt0166924_9": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0166924_9.wav",
+    "length": 681.7225625,
+    "spk_id": 2
+  },
+  "tt0463985_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0463985_5.wav",
+    "length": 845.3115625,
+    "spk_id": 0
+  },
+  "tt2473602_7": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2473602_7.wav",
+    "length": 877.5706875,
+    "spk_id": 0
+  },
+  "tt2274648_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2274648_11.wav",
+    "length": 700.928125,
+    "spk_id": 0
+  },
+  "tt0832266_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0832266_1.wav",
+    "length": 523.7784375,
+    "spk_id": 0
+  },
+  "tt0120363_17": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120363_17.wav",
+    "length": 306.784375,
+    "spk_id": 4
+  },
+  "mg4406": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4406.wav",
+    "length": 525.7188125,
+    "spk_id": 2
+  },
+  "mg360": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg360.wav",
+    "length": 602.144125,
+    "spk_id": 2
+  },
+  "mg4801": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4801.wav",
+    "length": 171.7501875,
+    "spk_id": 4
+  },
+  "tt2172935_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2172935_11.wav",
+    "length": 1107.905,
+    "spk_id": 3
+  },
+  "tt0116250_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0116250_5.wav",
+    "length": 708.4471875,
+    "spk_id": 0
+  },
+  "tt4633694_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt4633694_2.wav",
+    "length": 434.453875,
+    "spk_id": 0
+  },
+  "mg2831": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2831.wav",
+    "length": 463.5158125,
+    "spk_id": 2
+  },
+  "tt0371606_14": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0371606_14.wav",
+    "length": 673.916875,
+    "spk_id": 0
+  },
+  "tt2172935_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2172935_2.wav",
+    "length": 1397.2230625,
+    "spk_id": 0
+  },
+  "tt1441951_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1441951_1.wav",
+    "length": 465.2798125,
+    "spk_id": 4
+  },
+  "tt0115678_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0115678_5.wav",
+    "length": 623.7751875,
+    "spk_id": 0
+  },
+  "tt0429591_2": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0429591_2.wav",
+    "length": 580.4469375,
+    "spk_id": 0
+  },
+  "tt0120663_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0120663_4.wav",
+    "length": 623.1136875,
+    "spk_id": 4
+  },
+  "tt2293640_5": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt2293640_5.wav",
+    "length": 799.932625,
+    "spk_id": 3
+  },
+  "tt1131734_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1131734_11.wav",
+    "length": 600.86525,
+    "spk_id": 3
+  },
+  "tt0252028_20": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0252028_20.wav",
+    "length": 608.7811875,
+    "spk_id": 4
+  },
+  "tt0119223_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0119223_0.wav",
+    "length": 527.8135625,
+    "spk_id": 0
+  },
+  "tt0124718_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0124718_4.wav",
+    "length": 541.4845625,
+    "spk_id": 0
+  },
+  "mg4616": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg4616.wav",
+    "length": 755.50725,
+    "spk_id": 2
+  },
+  "tt0420087_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0420087_10.wav",
+    "length": 344.975,
+    "spk_id": 4
+  },
+  "mg2863": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2863.wav",
+    "length": 606.6203125,
+    "spk_id": 2
+  },
+  "mg3098": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3098.wav",
+    "length": 946.9179375,
+    "spk_id": 2
+  },
+  "tt0110399_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0110399_4.wav",
+    "length": 793.6263125,
+    "spk_id": 0
+  },
+  "tt0107478_11": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0107478_11.wav",
+    "length": 627.54575,
+    "spk_id": 0
+  },
+  "tt7339792_23": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt7339792_23.wav",
+    "length": 648.8460625,
+    "spk_id": 0
+  },
+  "mg7011": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg7011.wav",
+    "length": 678.0181875,
+    "spk_id": 2
+  },
+  "mg3408": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg3408.wav",
+    "length": 383.6506875,
+    "spk_id": 2
+  },
+  "tt0102685_1": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0102685_1.wav",
+    "length": 457.871,
+    "spk_id": 0
+  },
+  "tt1605630_10": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1605630_10.wav",
+    "length": 569.7085625,
+    "spk_id": 0
+  },
+  "tt0317198_4": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0317198_4.wav",
+    "length": 625.9360625,
+    "spk_id": 2
+  },
+  "mg2687": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg2687.wav",
+    "length": 626.7078125,
+    "spk_id": 2
+  },
+  "tt1228705_14": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt1228705_14.wav",
+    "length": 576.14725,
+    "spk_id": 0
+  },
+  "mg683": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg683.wav",
+    "length": 592.7288125,
+    "spk_id": 1
+  },
+  "tt0384793_0": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0384793_0.wav",
+    "length": 565.1221875,
+    "spk_id": 0
+  },
+  "mg1306": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg1306.wav",
+    "length": 802.3140625,
+    "spk_id": 2
+  },
+  "tt0113749_12": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/tt0113749_12.wav",
+    "length": 549.0698125,
+    "spk_id": 3
+  },
+  "mg512": {
+    "wav": "{data_root}/content/drive/MyDrive/miguemotion0612/mg512.wav",
+    "length": 797.77175,
+    "spk_id": 2
+  }
+}
